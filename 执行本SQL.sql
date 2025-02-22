@@ -1,0 +1,1 @@
+ALTER TABLE `pay_user` ADD `subchannel_roll` INT NOT NULL DEFAULT '0' AFTER `publickey`;
